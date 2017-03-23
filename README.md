@@ -1,0 +1,2 @@
+# -AuthenticationTicket-SlidingExpiration
+Forms AuthenticationTicket SlidingExpiration 過期問題
